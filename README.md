@@ -8,9 +8,9 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 
 - 💻 I’m currently working at AudMaster Technologies as a Social Media Manager // Remote.
 - 💞️ I’m looking to collaborate on different projects on website development, particularly Front-End.
-- 💬 Ask me anything about Front-End Development, Females Inclusion In Tech & Youth Empowerment.
-- ⚡ Fun fact: I love partcipating in changemaking activities (SDGs), volunteering & eating chocolates.
-- 👀 Pronouns: she/her/hers.
+- 💬 Ask me anything about Front-End Development, Females Inclusion In Tech & Youth Empowerment 👩‍🎓👩‍.
+- ⚡ Fun fact: I love participating in changemaking activities (SDGs), volunteering & eating chocolates 🍫.
+- 👀 Pronouns: she/ her/ hers.
 - 📫 Reach me via: euniceadewusic@gmail.com
 
 #### Top Technologies ⚡️
@@ -20,12 +20,12 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 #### Work 💼
 
 - :email: euniceadewusic@gmail.com
-- Portfolio: https://www.euniceadewusi.com
+- Portfolio: https://linkedin.com/in/euniceadewusic.com
 
 
 <details>
 <summary>
-  More stuffs 🙂 
+  More stuffs 😉 
 </summary>
 
 #### Coderank Stats 😅
