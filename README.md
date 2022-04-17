@@ -1,10 +1,10 @@
 ## Hey Techie, you can call me Climiradi 👋
 
-I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi Roberts. I'm passionate about using \*codes\* to solve \*real life\* problems.
+I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi Roberts. I'm passionate about using \*codes\* to solve \*real life\* problems; thereby creating a sustainable world for all.
 
 :mailbox: Want to connect with me?
 
-[![Twitter Badge](https://img.shields.io/badge/-TechieClimi_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/TechieClimi_) [![Linkedin Badge](https://img.shields.io/badge/-Eunice_Adewusi_(Climiradi)-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eunice-adewusic/) [![Instagram Badge](https://img.shields.io/badge/-climiradiroberts-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/climiradiroberts) [![Facebook Badge](https://img.shields.io/badge/-@Climiradi_Roberts-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/addsaryormee.eunex)
+[![Twitter Badge](https://img.shields.io/badge/-TechieClimi_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/TechieClimi_) [![Linkedin Badge](https://img.shields.io/badge/-Eunice_Adewusi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euniceadewusic/) [![Instagram Badge](https://img.shields.io/badge/-climiradiroberts-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/climiradiroberts) [![Facebook Badge](https://img.shields.io/badge/-@Climiradi_Roberts-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/addsaryormee.eunex)
 
 - 💻 I’m currently working at AudMaster Technologies as a Social Media Manager // Remote.
 - 💞️ I’m looking to collaborate on different projects on website development, particularly Front-End.
