@@ -1,12 +1,12 @@
 ### Hey Techie, you can call me Climiradi 👋
 
 - 🔭 I’m currently working on building projects using HTML, CSS & JS.
-- 🌱 I’m currently learning Javascript.
+- 🌱 Presently, I’m learning & implementing Javascript.
 - 👀 I’m interested in software development, AI, UI/UX Design & Back-End Development.
 - 💞️ I’m looking to collaborate on different projects on website development, particularly Front-End.
-- 💬 Ask me about Females Inclusion In Tech/ Empowerment.
+- 💬 Ask me anything about Front-End Development, Females Inclusion In Tech & Youth Empowerment.
 - ⚡ Fun fact: I love partcipating in changemaking activities (SDGs), volunteering & public speaking.
-- 📫 How to reach me @climiradiroberts - instagram.Com, Climiradi Roberts@facebook, euniceadewusic@gmail.com
+- 📫 How to reach me @climiradiroberts - instagram.com, Climiradi Roberts @facebook, euniceadewusic@gmail.com
 
 
 <!--
