@@ -15,7 +15,7 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 
 #### Top Technologies ⚡️
 
-![HTML5 Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26) ![CSS3 Badge](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![HTML5 Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26) ![CSS3 Badge](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![Python Badge](https://img.shields.io/badge/-python-1572B6?style=for-the-badge&labelColor=black&logo=python&logoColor=1572B6)
 
 #### Work 💼
 
@@ -25,7 +25,7 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 
 <details>
 <summary>
-  More stuffs 😉 
+  More stuff 😉 
 </summary>
 
 #### Coderank Stats 😅
@@ -34,9 +34,8 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 #### Github Stats 😁
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ClimiradiRoberts&count_private=true&theme=dark&hide=contribs,issues)
 
-<!--
 #### Wakatime Stats 🚶🏾‍♂️ 
 ![Wakatime Stats](https://wakatime.com/share/@f05dbbcc-977a-4174-affa-e3903e02de84/76eff073-16c2-4bc8-a571-83bcfa6614ba.svg)
 
 </details>
--->
+
