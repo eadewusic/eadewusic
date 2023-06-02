@@ -32,7 +32,7 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 ![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=climiradiroberts)
 
 #### Github Stats 😁
-![Github stats](https://github-readme-stats.vercel.app/api?username=ClimiradiRoberts&count_private=true&theme=dark&hide=contribs,issues)
+![Github stats](https://github-readme-stats.vercel.app/api?username=eadewusic&count_private=true&theme=dark&hide=contribs,issues)
 
 #### Wakatime Stats 🚶🏾‍♂️ 
 ![Wakatime Stats](https://wakatime.com/share/@f05dbbcc-977a-4174-affa-e3903e02de84/76eff073-16c2-4bc8-a571-83bcfa6614ba.svg)
