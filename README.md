@@ -4,7 +4,7 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 
 :mailbox: Want to connect with me?
 
-[![Twitter Badge](https://img.shields.io/badge/-TechieClimi_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/TechieClimi_) [![Linkedin Badge](https://img.shields.io/badge/-Eunice_Adewusi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euniceadewusic/) [![Instagram Badge](https://img.shields.io/badge/-climiradiroberts-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/climiradiroberts) [![Facebook Badge](https://img.shields.io/badge/-Climiradi_Roberts-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/climiradi)
+[![Twitter Badge](https://img.shields.io/badge/-TechieClimi_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/.TechieClimi_) [![Linkedin Badge](https://img.shields.io/badge/-Eunice_Adewusi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euniceadewusic/) [![Instagram Badge](https://img.shields.io/badge/-climiradiroberts-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/climiradiroberts) [![Facebook Badge](https://img.shields.io/badge/-Climiradi_Roberts-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/climiradi)
 
 - 💻 I’m currently working on projects at ALU // Remote.
 - 💞️ I’m looking to collaborate on different projects on website development, particularly Front-End.
@@ -16,6 +16,8 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 #### Top Technologies ⚡️
 
 ![HTML5 Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26) ![CSS3 Badge](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![Python Badge](https://img.shields.io/badge/-python-1572B6?style=for-the-badge&labelColor=black&logo=python&logoColor=1572B6)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
