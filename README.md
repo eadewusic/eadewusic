@@ -22,6 +22,10 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 - :email: euniceadewusic@gmail.com
 - Portfolio: https://linkedin.com/in/euniceadewusic.com
 
+### Profile Visits
+
+![visitors](https://komarev.com/ghpvc/?username=eadewusic)
+
 
 <details>
 <summary>
