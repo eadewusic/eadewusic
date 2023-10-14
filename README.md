@@ -24,7 +24,7 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 #### Work 💼
 
 - :email: euniceadewusic@gmail.com
-- Portfolio: https://linkedin.com/in/euniceadewusic.com
+- Portfolio: https://www.linktr.ee/climiradi
 
 ### Profile Visits
 
