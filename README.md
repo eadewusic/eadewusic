@@ -17,9 +17,9 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 
 ![HTML5 Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26) ![CSS3 Badge](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) ![Python Badge](https://img.shields.io/badge/-python-1572B6?style=for-the-badge&labelColor=black&logo=python&logoColor=1572B6)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script Badge](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### Work 💼
 
