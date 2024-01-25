@@ -26,9 +26,9 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 - :email: euniceadewusic@gmail.com
 - Portfolio: https://www.linktr.ee/climiradi
 
-#### Profile Visits 🧑‍🤝‍🧑                   Wakatime Stats 🚶🏾‍♂️ 
+#### Profile Visits 🧑‍🤝‍🧑 | Wakatime Stats 🚶🏾‍♂️ 
 
-![visitors](https://komarev.com/ghpvc/?username=eadewusic)                   [![Wakatime Stats](https://wakatime.com/badge/user/e0f94f67-76a1-427a-8dc0-b0316660e9de.svg)](https://wakatime.com/@e0f94f67-76a1-427a-8dc0-b0316660e9de)
+![visitors](https://komarev.com/ghpvc/?username=eadewusic)  [![Wakatime Stats](https://wakatime.com/badge/user/e0f94f67-76a1-427a-8dc0-b0316660e9de.svg)](https://wakatime.com/@e0f94f67-76a1-427a-8dc0-b0316660e9de)
 
 
 <details>
