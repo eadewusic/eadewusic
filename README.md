@@ -11,7 +11,6 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 - 💬 Ask me anything about Front-End Development, Females Inclusion In Tech & Youth Empowerment 👩‍🎓👩‍.
 - ⚡ Fun fact: I love training models, participating in changemaking activities (SDGs), volunteering & eating chocolates 🍫.
 - 📫 Reach me via: euniceadewusic@gmail.com
-- 📄 My Resume: https://docs.google.com/document/d/1fYBULw_UBWYTdsiXoiTA0XFKx3pl7Gp2Yf1TpCHL6W0/edit?usp=sharing
 
 #### Top Technologies ⚡️
 
@@ -23,6 +22,7 @@ I'm Eunice Adewusi, an ardent Front-End Developer with the brand name; Climiradi
 
 #### Work 💼
 
+- Resume: https://docs.google.com/document/d/1fYBULw_UBWYTdsiXoiTA0XFKx3pl7Gp2Yf1TpCHL6W0/edit?usp=sharing
 - :email: euniceadewusic@gmail.com
 - Portfolio: https://www.linktr.ee/climiradi
 
